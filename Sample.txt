@@ -1,0 +1,6 @@
+EmployeeID,Name,Department,Job_Status
+101,John Doe,IT,Active
+102,Jane Smith,HR,Inactive
+103,Michael Brown,Finance,Active
+104,Emily Davis,Marketing,Active
+105,David Wilson,Sales,Inactive
